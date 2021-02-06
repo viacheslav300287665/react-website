@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.222b1667.chunk.css",
+    "main.js": "/react-website/static/js/main.094745e8.chunk.js",
+    "main.js.map": "/react-website/static/js/main.094745e8.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.1166d0f9.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.1166d0f9.js.map",
+    "static/js/2.0c3532a3.chunk.js": "/react-website/static/js/2.0c3532a3.chunk.js",
+    "static/js/2.0c3532a3.chunk.js.map": "/react-website/static/js/2.0c3532a3.chunk.js.map",
+    "index.html": "/react-website/index.html",
+    "static/css/main.222b1667.chunk.css.map": "/react-website/static/css/main.222b1667.chunk.css.map",
+    "static/js/2.0c3532a3.chunk.js.LICENSE.txt": "/react-website/static/js/2.0c3532a3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-website/static/media/img-8.fabdf94d.jpg",
+    "static/media/HeroSection.css": "/react-website/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1166d0f9.js",
+    "static/js/2.0c3532a3.chunk.js",
+    "static/css/main.222b1667.chunk.css",
+    "static/js/main.094745e8.chunk.js"
+  ]
+}
